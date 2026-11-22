@@ -6,3 +6,10 @@ folium
 streamlit-folium
 pyserial
 pynmea2
+
+streamlit
+av
+opencv-python-headless
+numpy
+pillow
+ultralytics
