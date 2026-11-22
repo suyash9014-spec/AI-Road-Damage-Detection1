@@ -1,0 +1,11 @@
+# EXAMPLE ONLY: update this path, class names, and class ordering
+# to match your prepared dataset's YOLO annotation IDs.
+path: C:/Users/YourUser/Desktop/RoadDamageAI/road_dataset
+train: images/train
+val: images/val
+
+names:
+  0: longitudinal_crack
+  1: transverse_crack
+  2: alligator_crack
+  3: pothole

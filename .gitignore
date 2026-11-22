@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+runs/
+road_dataset_india/
+detections/
+
+*.db
+*.log
+*.db
