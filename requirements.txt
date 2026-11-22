@@ -13,3 +13,4 @@ numpy
 pillow
 ultralytics
 streamlit-js-eval
+streamlit-webrtc
